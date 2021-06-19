@@ -27,4 +27,6 @@ The main method will run 5 test cases.
 The first 3 are regular A* star, and the last 2 are modified moving target searches.
 
 **Extra Credit Component**
+
+
 ![plot](./moving-target.gif)
