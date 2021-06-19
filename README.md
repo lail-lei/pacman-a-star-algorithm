@@ -26,7 +26,14 @@ The main method is found in the Maze.java class.
 The main method will run 5 test cases. 
 The first 3 are regular A* star, and the last 2 are modified moving target searches.
 
-**Extra Credit Component**
+**Extra Credit Component (1 run)**
 
 
 ![plot](./moving-target.gif)
+
+
+
+**Basic functionality (3 different runs)**
+
+
+![plot](./basic-functionality.gif)
