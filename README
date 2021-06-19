@@ -17,7 +17,7 @@ is evaluated, more ghost states than PacMan states are generated. Therefore, the
 ghost path was shortened to display the ghost path by the length of PacMan's final (optimal) path.
 To properly implement a moving target solution, a restructuring of the assignment code might be necessary. For now, though, if a moving target run looks strange, you can run it again. Odds are it will look better the next time.
 
-Running the code:  
+**Running the code:**  
 
 The main method is found in the Maze.java class. 
 The main method will run 5 test cases. 
