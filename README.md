@@ -12,7 +12,7 @@ so that PacMan follows the optimal path to a moving target.
 
 In this implementation, PacMan follows the optimal path toward the moving ghost, 
 though sometimes it might not appear to. This assignment was designed to be run 
-on a single thread in Java. Therefore, it was simplest to move the ghost everytime 
+on a single thread in a Java program. It was simplest to move the ghost everytime 
 a PacMan state was evaluated. AStar returns the optimal path AFTER it has evaluated possible
 child paths. The optimal path is found by tracing parent states backwards from the final position of PacMan to the first position of PacMan
 in the generated list of AStar-evaluated states. Since the ghost moves every time a state 
